@@ -13,7 +13,6 @@ Constraints:
 1 <= nums.length <= 100
 0 <= nums[i] <= 10*9 */
 
-package Arrays;
 import java.util.Arrays;
 import java.util.Comparator;
 class LargestNumber {
