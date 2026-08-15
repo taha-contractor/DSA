@@ -20,9 +20,6 @@ Constraints:
 -10*9 <= target <= 10*9
 Only one valid answer exists. */
 
-
-
-package Arrays;
 class TwoSum {
     public static void main(String[] args) {
         int[] nums = {15, 15};
