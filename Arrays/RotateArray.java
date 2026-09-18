@@ -25,6 +25,8 @@ Constraints:
 0 <= k <= 10^5
 */
 
+import java.util.Arrays;
+
 class RotateArray {
     public void rotate(int[] nums, int k) {
         k = k % nums.length;
